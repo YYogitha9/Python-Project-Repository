@@ -16,14 +16,14 @@ The project includes a series of exercises and mini-programs designed to develop
 - Defined and used variables to store and manipulate data  
 - Worked with different data types (integers, floats, strings)  
 - Applied **type casting** to convert user inputs into usable formats (`int()`, `float()`)  
--- https://colab.research.google.com/drive/1-OM7bmdhFlbIWUhXtSqWhC_JLt8U_VxJ
+- https://colab.research.google.com/drive/1-OM7bmdhFlbIWUhXtSqWhC_JLt8U_VxJ
 ---
 
 ### 🖥️ User Interaction
 - Used `input()` to collect user data dynamically  
 - Used `print()` to display outputs and messages clearly  
 - Built interactive programs (e.g. greeting users, calculations, menu systems)  
- --https://colab.research.google.com/drive/17XSt7gA92y3kNFO1Z8oTTd7jay3JHChe
+- https://colab.research.google.com/drive/17XSt7gA92y3kNFO1Z8oTTd7jay3JHChe
 ---
 
 ### 🔀 Conditional Logic (if statements)
@@ -41,8 +41,8 @@ The project includes a series of exercises and mini-programs designed to develop
 - Built logic for:
   - Repeating user prompts  
   - Continuous program execution until exit  
-  - Iterative calculations  
-
+  - Iterative calculations
+  - https://colab.research.google.com/drive/1k1ToPfbR9PelBCXNlkY07-aNuNHYZfxw
 ---
 
 ### 🧠 Problem Solving & Logic Building
